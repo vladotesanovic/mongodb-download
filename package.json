@@ -1,10 +1,10 @@
 {
   "name": "mongodb-download-https",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "download mongodb prebuilt packages from mongodb",
-  "main": "built/mongodb-download.js",
+  "main": "built/mongodb-download-https.js",
   "bin": "built/mongodb-download-cli.js",
-  "types": "built/mongodb-download.d.ts",
+  "types": "built/mongodb-download-https.d.ts",
   "scripts": {
     "test": "mocha"
   },
