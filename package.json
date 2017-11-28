@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-download",
+  "name": "mongodb-download-https",
   "version": "2.2.5",
   "description": "download mongodb prebuilt packages from mongodb",
   "main": "built/mongodb-download.js",
